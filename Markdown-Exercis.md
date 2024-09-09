@@ -26,7 +26,7 @@ You can use different levels of headers to structure your content. This is an ex
 Here is a [link to my GitHub repository](https://github.com/Reben80/Data110-22016/tree/main).
 
 ### Images
-![A beautiful place](https://www.example.com/image.jpg)
+![A beautiful place](IMG_2065.JPG)
 
 ### Blockquotes
 > "Mathematics is the art of giving the same name to different things."  
